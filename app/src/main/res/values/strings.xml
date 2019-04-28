@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Seccion_01</string>
+    <string name="textView1">Soy un textView</string>
+    <string name="boton1">Enviar</string>
+</resources>
